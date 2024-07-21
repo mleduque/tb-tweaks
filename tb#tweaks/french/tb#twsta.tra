@@ -1,0 +1,25 @@
+@19108 = ~Si vous voyez ça, soit vous trichez soit vous avez découvert un bug dans tb#tweaks.~
+
+@19107 = ~<GABBER> se remémore ses aventures à vos côtés.~
+@19109 = ~Confronté aux épreuves de la vie, il a travaillé...~ ~Confrontée aux épreuves de la vie, elle a travaillé...~
+@19102 = ~Mais <HESHE> a aussi utilisé...~
+@19111 = ~...%Stat%.~ // Strength, Dexterity, Constitution, ...
+         ~...%Statf%.~
+@19112 = ~Rien.~
+
+@19100 = ~En effet, il s'est entraîné assidûment pour améliorer %Stat%.~ ~En effet, elle s'est entraînée assidûment pour améliorer %Statf%.~
+
+@19106 = ~Cela lui suffira-t-il pour devenir %comparative% ?~ // stronger, more dextrous, healtier, ...
+         ~Cela lui suffira-t-il pour devenir %comparativef% ?~
+         
+@19105 = ~Oui ! <GABBER> est désormais %comparative%.~
+         ~Oui ! <GABBER> est désormais %comparativef%.~
+
+@19101 = ~Et bien non, puisu'il est déjà aussi %adjective% que peut l'être un <RACE>.~ // strong, dextrous, healthy, ...
+         ~Et bien non, puisqu'elle est déjà aussi%adjectivef% que peut l'être une <RACE>.~
+@19103 = ~<GABBER> est aussi %adjective% que possible pour un <RACE>, mais seulement grâce à un enchantement. et pourrait encore augmenter la valeur naturelle de %Stat%.~
+         ~<GABBER> est aussi %adjectivef% que possible pour une <RACE>, mais seulement grâce à un enchantement. et pourrait encore augmenter la valeur naturelle de %Statf%.~
+@19104 = ~<GABBER> essaiera à nouveau dans 8 heures, après avoir retiré les objets et sorts qui améliorent %Stat%.~
+         ~<GABBER> essaiera à nouveau dans 8 heures, après avoir retiré les objets et sorts qui améliorent %Statf%.~
+
+@19110 = ~<GABBER> se reconcentre sur la tâche en cours.~

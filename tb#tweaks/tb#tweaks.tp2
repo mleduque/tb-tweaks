@@ -70,6 +70,11 @@ LANGUAGE ~Spanish by Lisandro~
 	 ~tb#tweaks/english/setup.tra~
 	 ~tb#tweaks/spanish/setup.tra~
 
+LANGUAGE ~French~
+	 ~french~
+	 ~tb#tweaks/english/setup.tra~
+	 ~tb#tweaks/french/setup.tra~
+
 
 // deprecated placeholders
 

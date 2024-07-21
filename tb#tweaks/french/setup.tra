@@ -1,0 +1,20 @@
+
+// in-game strings
+@22100 = ~Un livre de sorts~
+@22101 = ~Le livre de sorts de %name%~
+@22102 = ~Les livres de sorts recueillent la connaissance des mages. En en utilisant un, vous les détruirez et apprendrez (avec votre chance d'échec habituelle) quelques uns des sorts de son propriétaire. Les ensorceleurs peuvent utiliser le livre mais n'en tireront aucun bénéfice (et le livre sera détruit quand même) ; les mages spécialistes n'apprendront pas les sorts des écoles opposées.
+
+Utilisable par :
+Barde
+Mage
+
+Poids : 2~
+@22103 = ~Ceci est le livre de sorts de %name%. En l'utilisant, vous détruirez le livre et apprendrez (avec votre chance d'échec habituelle) les sorts suivants :
+___SPELL_LIST___
+Les ensorceleurs peuvent utiliser le livre mais n'en tireront aucun bénéfice (et le livre sera détruit quand même) ; les mages spécialistes n'apprendront pas les sorts des écoles opposées.
+
+Utilisable par :
+Barde
+Mage
+
+Poids : 2~
